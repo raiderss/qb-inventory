@@ -1,3 +1,8 @@
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=_CcALvJ7Dkc)
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.gg/EkwWvFS)
+[![Tebex Store](https://img.shields.io/badge/Tebex-Store-green?style=for-the-badge&logo=shopify)](https://eyestore.tebex.io/)
+
+
 ![remastered](https://github.com/raiderss/qb-inventory/assets/53000629/ed49dcbf-dd55-4136-84e9-106e95b89103)
 
 ## QB-Inventory | Modified by Eyes Store
