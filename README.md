@@ -26,3 +26,9 @@ By joining our Discord, you not only stay updated with the latest releases and u
 Your participation helps us grow and reach more people, enhancing the FiveM experience for everyone.
 
 Thank you for choosing **Eyes Store** for your FiveM scripting needs. Let's create something amazing together!
+
+---
+
+## Tags
+
+#qb-inventory #fivem-inventory #qbcore-framework #inventory-system #fivem-scripts #jquery-enhanced #item-management #gta5-inventory #qbcore-inventory #roleplay-inventory #fivem-ui #inventory-design #fivem-resources #fivem-mod #item-system #qbcore-scripts #esx-compatible #adsense-compatible #seo-optimized #fivem-roleplay #custom-inventory #item-slots #fivem-development #server-resources #fivem-enhancement #modern-ui-design #fivem-resource #qbcore-compatible #inventory-management #roleplay-essentials
